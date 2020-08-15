@@ -4,6 +4,7 @@
 詳しい説明(Qiita)
 https://qiita.com/mkunu/items/9b59e77de964a109e46b
 
+![image](https://user-images.githubusercontent.com/38278310/90308783-6a60dd00-df1d-11ea-85f2-22ff894ee1e5.png)
 
 ## プログラムの構成
 0. 論文pdfを収集。

@@ -1,6 +1,10 @@
 # WordListGenerator
 英語論文から単語を抽出&amp;登場回数順にソートし、さらに意味も載った単語帳まで作ってみた。
 
+I **extracted the words from the English papers**  
+and **sorted them by the number of times they appeared in the paper**,  
+and even **made a vocabulary book with the meanings of the words**!
+
 詳しい説明(Qiita)
 https://qiita.com/mkunu/items/9b59e77de964a109e46b
 
